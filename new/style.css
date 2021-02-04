@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.image-container {
+    width: 450px;
+    height: 650px;
+    background-color: blueviolet;
+}
